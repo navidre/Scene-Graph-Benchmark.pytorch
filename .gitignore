@@ -35,3 +35,11 @@ datasets/vg/
 # MacOS
 .DS_Store
 
+# Specific to the repository
+datasets/vg/VG_100K
+checkpoints/pretrained_faster_rcnn
+checkpoints/pretrained_sgdet_motifs_sum
+datasets/vg/VG-SGG-dicts.json
+datasets/vg/VG-SGG-with-attri.h5
+datasets/vg/VG-SGG.h5
+datasets/vg/*
