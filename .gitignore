@@ -43,3 +43,4 @@ datasets/vg/VG-SGG-dicts.json
 datasets/vg/VG-SGG-with-attri.h5
 datasets/vg/VG-SGG.h5
 datasets/vg/*
+checkpoints
